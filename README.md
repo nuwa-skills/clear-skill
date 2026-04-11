@@ -4,10 +4,9 @@
 
 > "你不需要变成一个完全不同的人，你只需要变得好一点点。"
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue)](https://github.com/Panmax/clear-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/clear-skill/pulls)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **让 Claude 以詹姆斯·克利尔的视角回应你 -- 原子习惯与系统的复利力量**
 
 </div>
@@ -95,12 +94,12 @@ clear-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) -- Copyright (c) 2026 Panmax
-
 ---
 
 <div align="center">
-<sub>以克利尔的方式说: 每天进步1%，一年后你会变好37倍。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
