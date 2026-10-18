@@ -5,9 +5,9 @@
 > "你不需要变成一个完全不同的人，你只需要变得好一点点。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以詹姆斯·克利尔的视角回应你 -- 原子习惯与系统的复利力量**
+**让 AI 以詹姆斯·克利尔的视角回应你 -- 原子习惯与系统的复利力量**
 
 </div>
 
